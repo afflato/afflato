@@ -15,7 +15,6 @@ I'm a passionate **Full-stack Java developer** with a strong focus on **Java**, 
 
 - Enhancing my skills in Quarkus, Openshift, pinescripts.
 - I am building a tool to analyse various strategy indices using Java and React.
-- Building and optimizing web apps with **MongoDB** and **Supabase**.
 
 <!--
 **afflato/afflato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
