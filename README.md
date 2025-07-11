@@ -57,9 +57,11 @@ Specializing in distributed systems design, clean architecture, microservices, h
 ### Currently Learning
  - Quarkus, Openshift, Pinescripts
 
-<img src="./assets/cou_IN.png" width="16"/> 📍 **Noida, India** | Remote Work
-🔗 https://www.linkedin.com/in/sharad-p-2ba39b208/
-📧 [paul.sharadchandra@gmail.com](mailto:paul.sharadchandra@gmail.com)
+📍 **Noida, India** <img src="./assets/cou_IN.png" width="16"/> | Remote Work
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sharad-p-2ba39b208/)
+
+[paul.sharadchandra@gmail.com](mailto:paul.sharadchandra@gmail.com)
 
 <!--
 **afflato/afflato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
