@@ -2,7 +2,7 @@
 
 I am a **Full-stack Java developer** with a strong focus on **Java**. Having more than decade and half years of industry experience in critical projects in Railways, Telecommunication, Wealth Management, Flights and Hotel Booking, Insurance, Gas and Oil, Manufacturing.
 
-Specializing in distributed systems design, clean architecture, microservices, high-level and low-level designs, root cause analysis, initial architecture setup. Collaborate well with various stakeholders to ensure the best version of the product is developed. I work well under pressure, and easily switch contexts between legacy and modern stack.
+Specializing in high-level and low-level designs, microservices, clean architecture, system-to-system integration, root cause analysis, initial architecture setup. Collaborate well with various stakeholders to ensure the best version of the product is developed. I excel in fast-paced environments and possess the versatility to switch contexts between legacy and modern stack.
 
 ---
 
