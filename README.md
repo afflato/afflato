@@ -39,7 +39,6 @@ Specializing in distributed systems design, clean architecture, microservices, h
 ---
 
 ## Personal projects
-
 - Tool for identifying quality stocks at a value price and their analysis.  
   Java and Spring AI backend + hexagonal architecture · React frontend · PgVector DB. Pgsqldb
 
@@ -47,20 +46,20 @@ Specializing in distributed systems design, clean architecture, microservices, h
   Pinescript
 
 ---
-## Hobbies
 
+## Hobbies
  - hobby investor
  - learn to contribute in open source
  - Running
+
 ---
 
 ### Currently Learning
  - Quarkus, Openshift, Pinescripts
 
-📍 **Noida, India** <img src="./assets/cou_IN.png" width="16"/> | Remote Work
-
-🔗 [LinkedIn](https://www.linkedin.com/in/sharad-p-2ba39b208/)
-
+---
+📍 **Noida, India** | Remote Work <br />
+🔗 [LinkedIn](https://www.linkedin.com/in/sharad-p-2ba39b208/) <br />
 [paul.sharadchandra@gmail.com](mailto:paul.sharadchandra@gmail.com)
 
 <!--
