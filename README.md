@@ -48,14 +48,16 @@ Specializing in high-level and low-level designs, microservices, clean architect
 ---
 
 ## Hobbies
- - hobby investor
- - learn to contribute in open source
+ - Hobby investor
+ - Learn to contribute in open source
  - Running
 
 ---
 
 ### Currently Learning
- - Quarkus, Openshift, Pinescripts
+ - Quarkus
+ - Openshift
+ - Pinescripts
 
 ---
 📍 **Noida, India** | Remote Work <br />
